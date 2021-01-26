@@ -2,8 +2,8 @@ package examples.mock;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;
-
-/**
+//niewiem
+**
  * Example to show how to stub constructors
  */
 public class ConstructorExample {
